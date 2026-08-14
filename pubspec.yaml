@@ -1,13 +1,13 @@
 name: gg_typedefs
 description: This package provides a bunch of typedefs used in various of our projects.
-version: 1.1.5
+version: 1.2.0
 repository: https://github.com/inlavigo/gg_typedefs
 
 environment:
-  sdk: ">=3.8.0 <4.0.0"
+  sdk: ">=3.13.0 <4.0.0"
 
 dev_dependencies:
-  args: ^2.4.2
-  gg_capture_print: ^1.0.2
-  lints: ^6.0.0
-  test: ^1.16.0
+  args: ^2.7.0
+  gg_capture_print: ^1.1.0
+  lints: ^6.1.0
+  test: ^1.31.2
