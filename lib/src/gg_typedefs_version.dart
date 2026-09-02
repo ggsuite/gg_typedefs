@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_typedefs` package.
-const String ggTypedefsVersion = '1.2.0';
+const String ggTypedefsVersion = '1.3.0';
